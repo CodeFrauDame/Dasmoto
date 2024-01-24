@@ -9,8 +9,7 @@
 </head>
 <body>
     <header>
-        <h1 align="center">Dasmoto’s Arts & Crafts</h1>
-        <img src="https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg"/>
+        <h1>Dasmoto’s Arts & Crafts</h1>
         
     </header>
     
@@ -18,7 +17,11 @@
 </html>
 
 <!--This is the css code-->
-h1 {font-family: Helvetica;
+h1 {
+    font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
-    color: khaki;}
+    color: khaki;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);}
+
+
